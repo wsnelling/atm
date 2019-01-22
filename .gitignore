@@ -1,0 +1,6 @@
+*.pyc
+*.so
+*.egg
+*.egg-info
+*.manifest
+*.spec
